@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mock-test-platform.git/static/css/main.c3a0ba2d.css",
+    "main.js": "/mock-test-platform.git/static/js/main.38b8bd1e.js",
+    "index.html": "/mock-test-platform.git/index.html",
+    "main.c3a0ba2d.css.map": "/mock-test-platform.git/static/css/main.c3a0ba2d.css.map",
+    "main.38b8bd1e.js.map": "/mock-test-platform.git/static/js/main.38b8bd1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a0ba2d.css",
+    "static/js/main.38b8bd1e.js"
+  ]
+}

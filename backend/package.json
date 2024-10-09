@@ -1,5 +1,5 @@
 {
-  "homepage": "https://VVarshu.github.io/mock-test-platform.git",
+
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.3",
